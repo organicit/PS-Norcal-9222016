@@ -4,10 +4,10 @@ PowerShell for every system!
 ----------------------------
 
 ## Speaker
-### Eric Courville
+- Eric Courville
 
 ## Location
-### Microsoft Reactor S.F.
+- Microsoft Reactor S.F.
 
 ## Agenda
 
