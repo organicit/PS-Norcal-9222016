@@ -9,3 +9,11 @@ PowerShell for every system!
 ## Location
 ### Microsoft Reactor S.F.
 
+## Agenda
+
+* PowerShell is Open Source what does that mean for me?
+** Cross Platform 
+** Supported OS
+** Installation steps
+*** Packages
+***
