@@ -11,9 +11,8 @@ PowerShell for every system!
 
 ## Agenda
 
-* PowerShell is Open Source what does that mean for me?
-** Cross Platform 
-** Supported OS
-** Installation steps
-*** Packages
-***
+- PowerShell is Open Source what does that mean for me?
+- Cross Platform 
+- Supported OS
+- Installation steps
+- Packages
