@@ -13,4 +13,5 @@ $MyUrl.url = "https://www.google.com"
 
 write-host $MyUrl.Appname
 
-Invoke-WebRequest $MyUrl.url
+$a = Invoke-WebRequest $MyUrl.url
+$a

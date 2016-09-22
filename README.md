@@ -13,11 +13,10 @@ PowerShell for every system!
 
 - PowerShell is Open Source what does that mean for me?
 - Cross Platform 
-- Supported OS
 - Installation steps
 - Packages
 
 
 
 ## Links
-
+[PowerShell Github link]("https://github.com/PowerShell/PowerShell")
